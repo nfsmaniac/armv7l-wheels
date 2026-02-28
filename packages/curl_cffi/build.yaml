@@ -1,7 +1,7 @@
 strategy: pypi
 
 python:
-  versions: ["3.9"]
+  versions: ["3.11"]
 
 package:
   versions: latest
